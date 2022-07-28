@@ -10,6 +10,7 @@
 		"VideoOptionsScreenMixin",
 		"Config",
 		"SMCLog",
-		"ParticleManagerMixin"
+		"ParticleManagerMixin",
+		"CapeUtilsAccessor"
 	]
 }
